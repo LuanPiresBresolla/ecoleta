@@ -1,5 +1,4 @@
-<img src="./assets/frontend_home.PNG" width="500" height="500">
-<img src="./assets/mobile_home.PNG" height="500">
+<img src="./assets/frontend_home.PNG" width="500" height="500">    <img src="./assets/mobile_home.PNG" height="500">
 
 # Backend
 
